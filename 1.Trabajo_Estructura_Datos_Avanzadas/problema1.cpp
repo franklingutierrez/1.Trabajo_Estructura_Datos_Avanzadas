@@ -1,6 +1,7 @@
 
+//--------PROBLEMA 1------------------------------
 //5. Mostrar los múltiplos de 2 y 5 entre 0 y 100
-
+// FRANKLIN HIUISTONG GUTIERREZ ARIZACA
 #include<iostream>
 #include<conio.h>
 using namespace std;
